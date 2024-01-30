@@ -1,2 +1,2 @@
 # work_space
-testing libraries, samles for projects
+testing libraries, samples for projects
