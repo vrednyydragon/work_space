@@ -1,5 +1,3 @@
-# README.md
-
 ## Test QR Library
 
 This project is a Python-based QR code generator. It uses the `qrcode` library to create QR codes with different styles and error correction levels.
